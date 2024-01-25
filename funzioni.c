@@ -40,6 +40,7 @@ int main()
     if(operazione ==3)
     {
         moltiplicazione(x, y);
+         
     }
     if(operazione == 4)
     {
